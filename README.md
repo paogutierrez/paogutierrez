@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://res.cloudinary.com/do2ijjhfn/image/upload/v1657907077/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_vrhbfy.png"/>
+<img src="https://res.cloudinary.com/do2ijjhfn/image/upload/v1657927720/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_1_jc3bit.png"/>
 
 
 
