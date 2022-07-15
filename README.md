@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+import frontEndDeveloper from 'paolagutierrez';
+
+class Bio extends frontEndDeveloper {
+  name     = 'Paola Gutierrez';
+  title    = 'Front-End Developer';
+  company  = 'Byjus Future School | Remote';
+  location = 'Colombia';
+}
+
+class Skills extends frontEndDeveloper
+  languages  = ['JavaScript', 'Python','Java']
+  databases  = ['MySQL', 'MongoDB', 'Firebase
+  frameworks = ['React','Angular'];
+}
+
 <!--
 **paogutierrez/paogutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
