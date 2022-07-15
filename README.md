@@ -13,12 +13,12 @@ const aboutMe = {
          js: ["React", "Angular"],
          css: ["Bootstrap"]
       },
-      
-      https://res.cloudinary.com/do2ijjhfn/image/upload/v1657929102/WhatsApp_Image_2022-07-15_at_6.51.03_PM_cfnswy.jpg
       databases: ["MongoDB"],
    },
 };
 ```
+
+https://res.cloudinary.com/do2ijjhfn/image/upload/v1657929102/WhatsApp_Image_2022-07-15_at_6.51.03_PM_cfnswy.jpg
 </br></br>
 <!--
 **paogutierrez/paogutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
