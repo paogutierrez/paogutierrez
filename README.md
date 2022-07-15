@@ -1,6 +1,23 @@
 ### Hi there 👋
 
+<img src="https://res.cloudinary.com/do2ijjhfn/image/upload/v1657907077/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_vrhbfy.png"/>
 
+
+
+```javascript
+const aboutMe = {
+   pronouns: "She" | "her",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bootstrap", "Adobe XD"]
+      },
+      databases: ["MongoDB"],
+   },
+};
+```
+</br></br>
 <!--
 **paogutierrez/paogutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
