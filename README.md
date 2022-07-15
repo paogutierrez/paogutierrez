@@ -7,11 +7,11 @@
 ```javascript
 const aboutMe = {
    pronouns: "She" | "her",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java],
+   code: [Javascript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap", "Adobe XD"]
+         css: ["Bootstrap"]
       },
       databases: ["MongoDB"],
    },
