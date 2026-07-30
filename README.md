@@ -6,15 +6,72 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "She" | "her",
-   code: [Javascript, HTML, CSS, Python, Java],
+   name: "Paola Gutierrez",
+   role: "Software Developer & Cybersecurity Enthusiast",
+   
+   code: [
+      "JavaScript",
+      "HTML",
+      "CSS"
+   ],
+
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap"]
+         js: ["React", "JavaScript"],
+         css: ["HTML5", "CSS3", "Bootstrap"],
       },
-      databases: ["MongoDB"],
+
+
+      databases: [
+         "MongoDB",
+         "Firebase"
+      ],
+
+      cybersecurity: [
+         "SOC",
+         "SIEM",
+         "Elastic",
+         "Kibana",
+         "Incident Response",
+         "Threat Detection",
+         "MITRE ATT&CK",
+         "Windows Event Logs",
+         "Sysmon",
+         "Network Analysis",
+         "Lateral Movement",
+         "Living off the Land (LotL)"
+      ],
+
+      operatingSystems: [
+         "Linux",
+         "Windows"
+      ],
+
+      tools: [
+         "Git",
+         "GitHub",
+         "VS Code",
+         "Elastic Stack"
+      ]
    },
+
+   currentlyLearning: [
+      "Cybersecurity",
+      "SOC Analysis",
+      "Incident Investigation",
+      "Linux",
+      "Networking",
+      "Threat Detection"
+   ],
+
+   projects: [
+      "Lateral Movement Detection",
+      "Living off the Land Investigation",
+      "SIEM Incident Analysis",
+      "Network Security Analysis"
+   ],
+
+   goal: "Growing as a Software Engineer and Cybersecurity Professional"
 };
 ```
 <img src="https://res.cloudinary.com/do2ijjhfn/image/upload/v1657929102/WhatsApp_Image_2022-07-15_at_6.51.03_PM_cfnswy.jpg"/>
