@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-<img src="https://res.cloudinary.com/do2ijjhfn/image/upload/v1657927720/Banner_de_LinkedIn_Sencillo_Tecnolog%C3%ADa_1_jc3bit.png"/>
+👋 Hola, soy Paola
+
+💻 Tecnóloga en Análisis y Desarrollo de Software
+
+🛡️ Actualmente enfocada en:
+Cybersecurity | SOC | SIEM | Incident Response
+
+🚀 También trabajo con:
+React | JavaScript | HTML | CSS | Git
+
+📚 Actualmente aprendiendo:
+Linux | Redes | Ciberseguridad
 
 
 
@@ -74,7 +85,7 @@ const aboutMe = {
    goal: "Growing as a Software Engineer and Cybersecurity Professional"
 };
 ```
-<img src="https://res.cloudinary.com/do2ijjhfn/image/upload/v1657929102/WhatsApp_Image_2022-07-15_at_6.51.03_PM_cfnswy.jpg"/>
+
 
 </br></br>
 
