@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-<p align="center">
-  <img src="[[https://cloudinary.com](https://res.cloudinary.com/do2ijjhfn/image/upload/v1792024317/Paola_Gutierrez_ehn9r1.png)](https://res.cloudinary.com/do2ijjhfn/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1784929712/IMG_4617_resultado_e4ueco.webp)" alt="Texto alternativo" width="500">
-</p>
+![Mi Banner]([https://cloudinary.com](https://res.cloudinary.com/do2ijjhfn/image/upload/v1792024317/Paola_Gutierrez_ehn9r1.png))
+
 
 👋 Hola, soy Paola
 
