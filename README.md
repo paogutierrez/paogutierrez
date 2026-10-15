@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://res.cloudinary.com/do2ijjhfn/image/upload/v1792024317/Paola_Gutierrez_ehn9r1.png
+
+!([URL_de_la_imagen](https://res.cloudinary.com/do2ijjhfn/image/upload/v1792024317/Paola_Gutierrez_ehn9r1.png))
+
 
 👋 Hola, soy Paola
 
